@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181699119043",
+    "project_id": "gas-delivery-app-85a14",
+    "storage_bucket": "gas-delivery-app-85a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181699119043:android:75fac634022117e549df76",
+        "android_client_info": {
+          "package_name": "com.example.gas_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181699119043-sk5k0p2aionfinplplmsdfj4ggi0qu2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHsQoA-x5iqtcK63RsBovxoX2oX2RCik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181699119043-sk5k0p2aionfinplplmsdfj4ggi0qu2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
